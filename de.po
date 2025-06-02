@@ -102,3 +102,11 @@ msgstr ""
 "für die Feststelltaste angezeigt wird. Soll beides angezeigt werden, wählen "
 "Sie 'Beide'. Bei 'Anzeigen/Ausblenden' wird das entsprechende Symbol nur "
 "angezeigt, wenn die jeweilige Taste aktiv ist."
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

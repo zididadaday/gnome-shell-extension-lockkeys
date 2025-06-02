@@ -99,3 +99,11 @@ msgid ""
 "display only caps-lock indicator, or both for both. Set show-hide, to "
 "display corresponding indicator icons only when on."
 msgstr "Beállíthatja milyen esetben jelenjenek meg indikátorok"
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

@@ -76,3 +76,11 @@ msgstr "Išjungta"
 
 msgid "Compact"
 msgstr "Viršuje"
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

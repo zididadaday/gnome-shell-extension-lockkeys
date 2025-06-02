@@ -13,48 +13,46 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Both"
-msgstr "Båda"
+msgstr "Både"
 
 msgid "Caps Lock"
-msgstr "Skiftlås"
+msgstr "Caps-Lock"
 
 msgid "Caps-Lock Only"
-msgstr "Endast skiftlås"
+msgstr "Kun Caps-Lock"
 
 msgid "Change indicator display options"
-msgstr "Ändra indikatorinställningar"
+msgstr "Ændre indikatorinstillinger"
 
 msgid "Indicator Style"
 msgstr "Indikatorstil"
 
 msgid "Show/Hide"
-msgstr "Visa/dölj"
+msgstr "Vis/skjul"
 
 msgid "Notifications"
-msgstr "Notifieringar"
+msgstr "Notifikationer"
 
 msgid "Num Lock"
-msgstr "Numeriskt lås"
+msgstr "Numerisk lås"
 
 msgid "Num-Lock Only"
-msgstr "Endast numeriskt lås"
+msgstr "Kun numerisk lås"
 
 msgid "Off"
-msgstr "av"
+msgstr "af"
 
 msgid "On"
 msgstr "på"
 
 msgid "Settings"
-msgstr "Inställningar"
+msgstr "Indstillinger"
 
 msgid "Show notifications when state changes"
-msgstr "Visa notifieringar när låsstatus ändras"
-
-#: needs translation
+msgstr "Vis kun notifikationer når låsestatus ændres"
 
 msgid "Fn Lock"
-msgstr "Fn Lock"
+msgstr "Fn Lås"
 
 msgid "Fn Lock Only"
-msgstr "Fn Lock Only"
+msgstr "Kun Fn Lås"

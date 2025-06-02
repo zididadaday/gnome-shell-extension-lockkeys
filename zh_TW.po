@@ -95,3 +95,11 @@ msgid ""
 msgstr ""
 "設定數字鎖定值僅顯示數字鎖定指示器，設定大寫鎖定值僅顯示大寫鎖定指示器，"
 "或設定為兩者皆顯示。設定顯示/隱藏以在開啟時顯示相應的指示器圖示。"
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

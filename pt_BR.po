@@ -73,3 +73,11 @@ msgstr "Ligado"
 #: extension.js:217
 msgid "Off"
 msgstr "Desligado"
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

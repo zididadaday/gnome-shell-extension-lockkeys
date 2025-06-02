@@ -31,51 +31,71 @@ msgstr ""
 msgid "On"
 msgstr ""
 
-#: extension.js:212 prefs.js:43
+#: extension.js:212 prefs.js:63
 msgid "Off"
 msgstr ""
 
-#: prefs.js:33
+#: prefs.js:40
 msgid "Indicator Style"
 msgstr ""
 
-#: prefs.js:33
+#: prefs.js:41
 msgid "Change indicator display options"
 msgstr ""
 
-#: prefs.js:34
+#: prefs.js:43
+msgid "Notifications Only"
+msgstr ""
+
+#: prefs.js:44
 msgid "Num-Lock Only"
 msgstr ""
 
-#: prefs.js:35
+#: prefs.js:45
 msgid "Caps-Lock Only"
 msgstr ""
 
-#: prefs.js:36
-msgid "Both"
+#: prefs.js:46
+msgid "Fn-Lock Only"
 msgstr ""
 
-#: prefs.js:37
+#: prefs.js:47
+msgid "Fn-Lock and Caps-Lock Only"
+msgstr ""
+
+#: prefs.js:48
+msgid "Fn-Lock and Num-Lock Only"
+msgstr ""
+
+#: prefs.js:49
+msgid "Caps-Lock and Num-Lock Only"
+msgstr ""
+
+#: prefs.js:51
+msgid "All"
+msgstr ""
+
+#: prefs.js:52
 msgid "Show/Hide"
 msgstr ""
 
-#: prefs.js:39
+#: prefs.js:53
 msgid "Show/Hide Caps-Lock Only"
 msgstr ""
 
-#: prefs.js:40
+#: prefs.js:60
 msgid "Notifications"
 msgstr ""
 
-#: prefs.js:40
+#: prefs.js:61
 msgid "Show notifications when state changes"
 msgstr ""
 
-#: prefs.js:42
+#: prefs.js:64
 msgid "Compact"
 msgstr ""
 
-#: prefs.js:43
+#: prefs.js:65
 msgid "Osd"
 msgstr ""
 
@@ -96,4 +116,8 @@ msgid ""
 "Set numlock value to display only num-lock indicator, set capslock value to "
 "display only caps-lock indicator, or both for both. Set show-hide, to "
 "display corresponding indicator icons only when on."
+msgstr ""
+
+#: extension.js:88
+msgid "Fn Lock"
 msgstr ""

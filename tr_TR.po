@@ -69,3 +69,11 @@ msgstr "Açık"
 #: extension.js:217
 msgid "Off"
 msgstr "Kapalı"
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

@@ -84,3 +84,11 @@ msgstr "状态变化时显示通知"
 #: schemas/org.gnome.shell.extensions.lockkeys.gschema.xml:12
 msgid "Indicator style"
 msgstr "指示器风格"
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

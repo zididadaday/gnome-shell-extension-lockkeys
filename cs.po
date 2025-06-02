@@ -103,3 +103,11 @@ msgstr ""
 "nastavte hodnotu \"capslock\" pro zobrazení pouze indikátoru caps-lock nebo "
 "\"oba\" pro oba. Nastavte \"zobrazit/Skrýt\", aby se odpovídající ikony "
 "indikátorů zobrazovaly pouze při zapnutí."
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

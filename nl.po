@@ -95,3 +95,11 @@ msgstr ""
 "‘capslock’ in om alleen de CapsLock-indicator te tonen of ‘both’ om beide "
 "te tonen. Stel in ‘show-hide’ om alleen te tonen indien één van de knoppen "
 "wordt ingedrukt."
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"

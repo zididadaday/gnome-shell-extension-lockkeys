@@ -8,9 +8,15 @@ const STYLE = 'style';
 const STYLE_NONE = 'none';
 const STYLE_NUMLOCK_ONLY = 'numlock';
 const STYLE_CAPSLOCK_ONLY = 'capslock';
-const STYLE_BOTH = 'both';
+const STYLE_FNLOCK_ONLY = 'fnlock';
+const STYLE_FN_CAPS = 'fncapslock'; // added fn and capslock, hide numlock
+const STYLE_FN_NUM = 'fnnumlock;'; // added fn and numlock, hide capslock
+const STYLE_CAPS_NUM = 'capsnumlock'; // added caps and numlock, hide fnlock
+//const STYLE_BOTH = 'both'; // all indicators
+const STYLE_ALL = 'all'; // added all, replacing both
 const STYLE_SHOWHIDE = 'show-hide';
 const STYLE_SHOWHIDE_CAPSLOCK = 'show-hide-capslock';
+const STYLE_SHOWHIDE_FNLOCK = 'show-hide-fnlock'; // added Fn-Lock support
 const NOTIFICATIONS = 'notification-preferences';
 const NOTIFICATIONS_OFF = 'off';
 const NOTIFICATIONS_ON = 'on';
@@ -37,9 +43,15 @@ export default class LockKeysPreferences extends ExtensionPreferences {
                 [STYLE_NONE]: _("Notifications Only"),
                 [STYLE_NUMLOCK_ONLY]: _("Num-Lock Only"),
                 [STYLE_CAPSLOCK_ONLY]: _("Caps-Lock Only"),
-                [STYLE_BOTH]: _("Both"),
+                [STYLE_FNLOCK_ONLY]: _("Fn-Lock Only"),
+                [STYLE_FN_CAPS]: _("Fn-Lock and Caps-Lock Only"), // added Fn and Caps-Lock, hide Num-Lock
+                [STYLE_FN_NUM]: _("Fn-Lock and Num-Lock Only"), // added Fn and Num-Lock, hide Caps-Lock
+                [STYLE_CAPS_NUM]: _("Caps-Lock and Num-Lock Only"), // added Caps and Num-Lock, hide Fn-Lock
+                // [STYLE_BOTH]: _("Both"), // all indicators, not used anymore
+                [STYLE_ALL]: _("All"), // all indicators
                 [STYLE_SHOWHIDE]: _("Show/Hide"),
-                [STYLE_SHOWHIDE_CAPSLOCK]: _("Show/Hide Caps-Lock Only")
+                [STYLE_SHOWHIDE_CAPSLOCK]: _("Show/Hide Caps-Lock Only"),
+                [STYLE_SHOWHIDE_FNLOCK]: _("Show/Hide Fn-Lock Only")
     	    }
     	);
 

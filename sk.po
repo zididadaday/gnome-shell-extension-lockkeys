@@ -106,3 +106,11 @@ msgstr ""
 "Caps-Lock. Hodnota „both“ zobrazí oba indikátory. Nastavením hodnoty "
 "„show“ (zobraziť) alebo „hide“ (skryť) budú po zapnutí zobrazené iba ikony "
 "príslušného indikátoru."
+
+#: needs translation
+
+msgid "Fn Lock"
+msgstr "Fn Lock"
+
+msgid "Fn Lock Only"
+msgstr "Fn Lock Only"
