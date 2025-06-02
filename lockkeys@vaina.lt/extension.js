@@ -252,7 +252,7 @@ const LockKeysIndicator = GObject.registerClass({
 	}
 
 	getFnlockState() {
-		return this.keyMap.get_caps_lock_state(); // testing as there is no Fn lock state in GTK
+		return this.keyMap.get_keymap(); // no way to determine fn lock state
 	}
 });
 
