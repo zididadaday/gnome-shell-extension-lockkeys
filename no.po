@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: extension.js:97 extension.js:147
+msgid "Num Lock"
+msgstr "Num Lock"
+
+#: extension.js:100 extension.js:154
+msgid "Caps Lock"
+msgstr "Caps Lock"
+
+#: extension.js:104
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: extension.js:213
+msgid "On"
+msgstr ""
+
+#: extension.js:212 prefs.js:63
+msgid "Off"
+msgstr ""
+
+#: prefs.js:40
+msgid "Indicator Style"
+msgstr ""
+
+#: prefs.js:41
+msgid "Change indicator display options"
+msgstr ""
+
+#: prefs.js:43
+msgid "Notifications Only"
+msgstr ""
+
+#: prefs.js:44
+msgid "Num-Lock Only"
+msgstr ""
+
+#: prefs.js:45
+msgid "Caps-Lock Only"
+msgstr ""
+
+#: prefs.js:46
+msgid "Fn-Lock Only"
+msgstr ""
+
+#: prefs.js:47
+msgid "Fn-Lock and Caps-Lock Only"
+msgstr ""
+
+#: prefs.js:48
+msgid "Fn-Lock and Num-Lock Only"
+msgstr ""
+
+#: prefs.js:49
+msgid "Caps-Lock and Num-Lock Only"
+msgstr ""
+
+#: prefs.js:51
+msgid "All"
+msgstr ""
+
+#: prefs.js:52
+msgid "Show/Hide"
+msgstr ""
+
+#: prefs.js:53
+msgid "Show/Hide Caps-Lock Only"
+msgstr ""
+
+#: prefs.js:60
+msgid "Notifications"
+msgstr ""
+
+#: prefs.js:61
+msgid "Show notifications when state changes"
+msgstr ""
+
+#: prefs.js:64
+msgid "Compact"
+msgstr ""
+
+#: prefs.js:65
+msgid "Osd"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.lockkeys.gschema.xml:6
+msgid "Show notifications when key state changes"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.lockkeys.gschema.xml:7
+msgid "Set false to suppress num-lock or caps-lock state change notifications"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.lockkeys.gschema.xml:12
+msgid "Indicator style"
+msgstr ""
+
+#: schemas/org.gnome.shell.extensions.lockkeys.gschema.xml:13
+msgid ""
+"Set numlock value to display only num-lock indicator, set capslock value to "
+"display only caps-lock indicator, or both for both. Set show-hide, to "
+"display corresponding indicator icons only when on."
+msgstr ""
+
+#: extension.js:88
+msgid "Fn Lock"
+msgstr ""
