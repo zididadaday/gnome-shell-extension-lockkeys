@@ -2,7 +2,11 @@
 
 It shows notifications about numlock, capslock or fn lock state change.
 
-![Screenshot](https://github.com/kazysmaster/gnome-shell-extension-lockkeys/raw/master/screenshot.png)
+NOTE: Fn Lock state will not work - no way of determining the Fn Lock state at this moment.
+
+![Screenshot](indicator-1.png)
+![Screenshot](indicator-2.png)
+![Screenshot](drop-down-1.png)
 
 The original extension is available at (no fn-lock indicator): https://extensions.gnome.org/extension/36/lock-keys/
 

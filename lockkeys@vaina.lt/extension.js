@@ -252,7 +252,7 @@ const LockKeysIndicator = GObject.registerClass({
 	}
 
 	getFnlockState() {
-		return this.keyMap.get_keymap(); // no way to determine fn lock state
+		return this.keyMap.get_num_lock_state(); // no way to determine fn lock state
 	}
 });
 
