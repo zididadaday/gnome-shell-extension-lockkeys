@@ -7,6 +7,7 @@ NOTE: Fn Lock state will not work - no way of determining the Fn Lock state at t
 <details>
 
 <summary>Screenshots</summary>
+
 |Menu bar indicator|
 |---|
 |![Screenshot](indicator-1.png)|
