@@ -6,8 +6,10 @@ NOTE: Fn Lock state will not work - no way of determining the Fn Lock state at t
 
 Menu bar indiactor
 ![Screenshot](indicator-1.png)
+
 Menu bar context menu
 ![Screenshot](indicator-2.png)
+
 Settings menu
 ![Screenshot](drop-down-1.png)
 
