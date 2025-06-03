@@ -4,6 +4,7 @@ It shows notifications about numlock, capslock or fn lock state change.
 
 NOTE: Fn Lock state will not work - no way of determining the Fn Lock state at this moment.
 
+<Screenshots>
 |Menu bar indicator|
 |---|
 |![Screenshot](indicator-1.png)|
