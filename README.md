@@ -4,7 +4,9 @@ It shows notifications about numlock, capslock or fn lock state change.
 
 NOTE: Fn Lock state will not work - no way of determining the Fn Lock state at this moment.
 
-<Screenshots>
+<details>
+
+<summary>Screenshots</summary>
 |Menu bar indicator|
 |---|
 |![Screenshot](indicator-1.png)|
@@ -16,6 +18,8 @@ NOTE: Fn Lock state will not work - no way of determining the Fn Lock state at t
 |Settings menu|
 |---|
 |![Screenshot](drop-down-1.png)|
+
+</details>
 
 The original extension is available at (no fn-lock indicator): https://extensions.gnome.org/extension/36/lock-keys/
 
